@@ -1,0 +1,26 @@
+* {
+    text-align: center;
+}
+body {
+    background-color: rgba(99, 50, 10, 0.342); 
+}
+
+.hone {
+    font-size: 55px;
+    font-style: oblique;
+    font-weight: 600;
+    font-family: monospace;
+   
+}
+.recipes {
+    color: black;
+    font-size: 25px;
+    font-style: italic;
+}
+
+a {
+    text-decoration: none;
+}
+img {
+    border-radius: 24%
+}

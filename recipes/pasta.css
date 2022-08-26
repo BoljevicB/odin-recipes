@@ -1,0 +1,50 @@
+
+body {
+    background-color: rgba(99, 50, 10, 0.342);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.descr {
+    text-align: center;
+}
+
+.headone {
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold
+}
+
+img {
+    display: block;
+    width: 750px;
+    height: auto;
+    margin: 0 auto 0 auto;
+}
+
+.descr, .descrtwo {
+    text-align: center;
+}
+
+.descrtwo {
+    font-style: italic;
+}
+
+.ingrid{
+    font-style: italic;
+    padding-left: 40px;
+}
+
+ul {
+    list-style: none;
+    font-style: italic;
+}
+.steps {
+    font-style: italic;
+    padding-left: 157px;
+}
+
+.pastasteps {
+    text-align: justify;
+    padding-left: 100px;
+    padding-right: 100px;
+}

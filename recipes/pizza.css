@@ -1,0 +1,49 @@
+
+
+body {
+    background-color: rgba(99, 50, 10, 0.342);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    
+}
+
+img {
+display: block;
+width: 800px;
+height: auto;
+margin: 0 auto 0 auto;
+}
+
+.descr, .descrpizza {
+    text-align: center;
+}
+
+.descrpizza {
+    font-style: italic;
+}
+
+.steps {
+    font-style: italic;
+    padding-left: 157px;
+}
+
+.pizzasteps {
+    text-align: justify;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.ingrid {
+    font-style: italic;
+    padding-left: 40px;
+}
+
+ul {
+    list-style: none;
+    font-style: italic;
+}
